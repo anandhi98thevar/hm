@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Packages>
+  <Pack>
+    <PackagesName>Hair Spa </PackagesName>
+    <Includes>Wash,Cut,Blow</Includes>
+    <Price>1050</Price>
+  </Pack>
+  <Pack>
+    <PackagesName>Face Spa</PackagesName>
+    <Includes>Facial,Bleach,De-Tan</Includes>
+    <Price>2500</Price>
+  </Pack>
+  <Pack>
+    <PackagesName>Body Spa</PackagesName>
+    <Includes>De-Tan,Wax</Includes>
+    <Price>7000</Price>
+  </Pack>
+  <Pack>
+    <PackagesName>Bridal</PackagesName>
+    <Includes>Full</Includes>
+    <Price>8000</Price>
+  </Pack>
+  <Pack>
+    <PackagesName>Party Look</PackagesName>
+    <Includes>Full</Includes>
+    <Price>5000</Price>
+  </Pack>
+  <Pack>
+    <PackagesName>NailArt</PackagesName>
+    <Includes>Extension</Includes>
+    <Price>500</Price>
+  </Pack>
+</Packages>
